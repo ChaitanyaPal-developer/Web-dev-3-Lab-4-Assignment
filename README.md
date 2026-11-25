@@ -131,6 +131,9 @@ Log in again to receive a JWT containing the updated role, then call `GET /api/a
 ### 5. List Notes
 ![List Notes](screenshots/05-list-notes.png)
 
+### 6. Socket.IO Chat Console
+![Socket.IO Chat Console](screenshots/06-socket-chat-console.png)
+
 
 
 ## Security notes
